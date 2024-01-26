@@ -1,0 +1,4 @@
+venv/
+.env
+*.teal
+__pycache__/
